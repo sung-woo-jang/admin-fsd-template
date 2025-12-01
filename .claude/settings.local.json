@@ -37,7 +37,13 @@
       "Bash(fi)",
       "Bash(__NEW_LINE__ echo \"\")",
       "Bash(if [ ! -f \"/Users/jangseong-u/Desktop/Project/living-craft/living-craft-backoffice/src/app/providers/index.ts\" ])",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo view:*)",
+      "Bash(cat:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
